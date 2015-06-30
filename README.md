@@ -1,2 +1,33 @@
 # UE4-PROJECT
-Game Development project with Unreal Engine 4: Batuhan, Omid, Zain, Raoul
+ToDo: 
+-Verhaal bedenken: 
+    Wie->Zain.
+     Wanneer af->?
+    
+-Animaties maken voor character: 
+    Wie->Zain.
+    Wanneer af->?
+    
+-Meer Characters+animaties:
+    Wie->Zain.
+    Wanneer af->?
+    
+-Textures maken:
+    Wie->Batu+Omid?
+    Wanneer af->?
+    
+-Landscape maken:
+    Wie->Omid + Batu?
+    Wanneer af->?
+    
+-particles maken (voor ?):
+    Wie-> Omid.
+    Wanneer af->?
+    
+-AI maken:
+    Wie->Raoul.
+    Wanneer af->?
+    
+-Controls maken:
+    Wie->Raoul.
+    Wanneer af->?
