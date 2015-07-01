@@ -26,7 +26,7 @@ ToDo:
     Wanneer af->?
     
 -AI maken:
-    Wie->Raoul.
+    Wie->Raoul + Omid.
     Wanneer af->?
     
 -Controls maken:
